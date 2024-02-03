@@ -1,0 +1,8 @@
+Apple II VGA Utility Configuration Disk Instructions
+----------------------------------------------------
+
+Thank you for purchasing an Apple II VGA card from Maxwell's Gadgets! You can configure your card using the POKE commands described on Mark Aiken's Github page [https://github.com/markadev/AppleII-VGA] or use this utility disk image to get started.
+
+If you have a Floppy EMU or similar device, simply copy the DSK file to your SD Card and launch it to run the configuration utility. If you don't have one, no need for concern! You can use an application called ADT Pro to send the disk to your Apple II through just the audio port with little more than a 3.5mm audio cable (there are also options to send it over serial or ethernet, assuming you have the correct hardware).
+
+Detailed instructions for obtaining and using ADT Pro can be found at [https://www.adtpro.com]. Since the Apple II VGA firmware allows device configurations to be saved, you'll only need to use this utility when changing settings for your Apple II VGA card.
